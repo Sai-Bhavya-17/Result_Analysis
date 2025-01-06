@@ -62,10 +62,7 @@ Developing a mobile-friendly version of the platform, allowing users to upload r
 Security and Data Privacy:
 Strengthening security measures to ensure that all student data remains private and protected, with features like user role management, encrypted data storage, and secure file upload protocols.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/.git
+
 
 
 
